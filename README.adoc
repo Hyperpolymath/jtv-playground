@@ -1,8 +1,8 @@
-# JTV Playground
+= JTV Playground
 
 A comprehensive development playground for experimenting with various technologies, frameworks, and architectural patterns.
 
-## Project Structure
+== Project Structure
 
 ```
 jtv-playground/
@@ -27,74 +27,74 @@ jtv-playground/
 
 ```
 
-## Experiments
+== Experiments
 
-### API Demos
+=== API Demos
 - REST API with Express.js
 - GraphQL server
 - WebSocket real-time communication
 - Authentication systems (JWT, sessions)
 - API rate limiting and caching
 
-### Python Demos
+=== Python Demos
 - Data processing pipelines
 - CLI tools
 - Web scraping utilities
 - Automation scripts
 
-### Frontend Demos
+=== Frontend Demos
 - React applications
 - State management patterns
 - Custom hooks library
 - CSS frameworks and component libraries
 - Data visualization dashboards
 
-### Database Demos
+=== Database Demos
 - SQLite experiments
 - Migration systems
 - ORM patterns
 
-### Infrastructure
+=== Infrastructure
 - Docker containerization
 - CI/CD pipelines
 - Logging and monitoring
 - Serverless functions
 
-### Testing
+=== Testing
 - Unit testing (Jest, pytest)
 - Integration testing
 - E2E testing (Playwright, Cypress)
 - Performance benchmarking
 
-### Algorithms & Patterns
+=== Algorithms & Patterns
 - Classic algorithms (sorting, searching, DP)
 - Design patterns implementation
 - Data structures
 
-## Getting Started
+== Getting Started
 
 Each experiment has its own README with specific setup instructions.
 
-### Prerequisites
+=== Prerequisites
 
 - Node.js 18+
 - Python 3.9+
 - Docker (optional)
 
-### Quick Start
+=== Quick Start
 
 ```bash
-# Clone the repository
+= Clone the repository
 git clone <repository-url>
 cd jtv-playground
 
-# Choose an experiment
+= Choose an experiment
 cd experiments/<experiment-name>
 
-# Follow the experiment's README
+= Follow the experiment's README
 ```
 
-## Contributing
+== Contributing
 
 This is a playground repository. Feel free to:
 - Add new experiments
@@ -104,11 +104,11 @@ This is a playground repository. Feel free to:
 
 See CLAUDE.md for AI assistant guidelines.
 
-## License
+== License
 
 MIT License - This is an experimental playground project.
 
 ---
 
-**Status**: Active Development
-**Last Updated**: 2025-11-21
+*Status*: Active Development
+*Last Updated*: 2025-11-21
